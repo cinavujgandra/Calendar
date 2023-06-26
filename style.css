@@ -1,0 +1,21 @@
+body{
+    background-color:bisque ;
+}
+table{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.338) !important;
+}
+th{
+    font-weight: 100;
+    background-color: blanchedalmond;
+    border: 1px solid rgba(128, 128, 128, 0.253) !important;
+}
+td{
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.253) !important;
+}
+
+.btn{
+    border-radius: 0 !important;
+}
